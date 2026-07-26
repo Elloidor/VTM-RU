@@ -1,12 +1,18 @@
 # VTM RU
 
-Фанатский перевод на русский язык книг серии *Vampire: The Masquerade* («Вампиры: Маскарад») — настольной ролевой игры из вселенной *World of Darkness* («Мир Тьмы»):
+Фанатский перевод на русский язык книг серии *Vampire: The Masquerade* («Вампиры: Маскарад») — настольной ролевой игры из вселенной *World of Darkness* («Мир Тьмы»).
 
-- Blood Sigils
-- Chicago by Night
-- Companion
-- Cults of Blood Gods
-- V5 The Book of Nod
+| Книга | Русский перевод | Полос |
+|---|---|---|
+| Blood Sigils | [готов](<Ru/1. Blood Sigils (Ru).pdf>) | 186 |
+| Chicago by Night | перевод готов, вёрстка в работе | 357 |
+| Companion | [готов](<Ru/3. Companion (Ru).pdf>) | 65 |
+| Cults of Blood Gods | [готов](<Ru/4. Cults of the Blood Gods (Ru).pdf>) | 278 |
+| V5 The Book of Nod | [готов](<Ru/5. V5 The Book of Nod (Ru).pdf>) | 138 |
+
+Вёрстка пейдж-перфект: номер полосы русского PDF совпадает с номером полосы оригинала.
+
+Оригиналы на английском — в `Eng/`.
 
 Все права на оригинальные произведения, названия, персонажей, иллюстрации и товарные знаки принадлежат соответствующим правообладателям.
 
