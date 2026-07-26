@@ -1,0 +1,8 @@
+# На машине автора core.autocrlf=true. Без явного binary git решает по
+# эвристике, а ошибка эвристики на PDF означает молча испорченный файл.
+*.pdf binary
+*.ttf binary
+*.otf binary
+*.jpg binary
+*.jpeg binary
+*.png binary
